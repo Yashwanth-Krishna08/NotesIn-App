@@ -34,11 +34,10 @@ A simple and modern **Notes Application** built using **Qt Quick (QML)**. The ap
 ## 📸 Screens
 
 * Home page
+  <img src = "Screenshot 2026-08-01 162235"></img>
 * Add Note page
 * My Notes page
 * Expandable Note component
-
-*(Add screenshots here after uploading them to the repository.)*
 
 ## 📚 Concepts Demonstrated
 
