@@ -1,4 +1,4 @@
-# 📝 Qt Quick Notes
+# 📝 NotesIn App
 
 A simple and modern **Notes Application** built using **Qt Quick (QML)**. The application allows users to create and view notes through a clean multi-page interface while demonstrating the fundamentals of QML development.
 
