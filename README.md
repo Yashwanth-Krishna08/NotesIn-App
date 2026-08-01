@@ -37,19 +37,16 @@ A simple and modern **Notes Application** built using **Qt Quick (QML)**. The ap
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### Add Note
 
-![Add Note](screenshots/add-note.png)
+![Add Note](add-note.png)
 
 ### My Notes
 
-![My Notes](screenshots/my-notes.png)
+![My Notes](my-notes.png)
 
-### Expanded Note
-
-![Expanded Note](screenshots/expanded-note.png)
 
 ## 📚 Concepts Demonstrated
 
